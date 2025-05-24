@@ -20,6 +20,6 @@
             "name": "Krishna Shrestha"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
