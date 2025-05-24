@@ -1,0 +1,25 @@
+{
+    "name": "ipsi-laravel",
+    "description": "Laravel IPSI payment gateway",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+        "IpsiLaravel\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+            "IpsiLaravel\\IpsiPaymentServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Krishna Shrestha"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
