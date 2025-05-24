@@ -1,6 +1,6 @@
 <?php
 
-namespace krixnaas\IpsiLaravel;
+namespace Krixnaas\IpsiLaravel;
 
 use Illuminate\Support\ServiceProvider;
 
