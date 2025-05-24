@@ -1,6 +1,6 @@
 <?php
 
-namespace IpsiLaravel\Services;
+namespace Krixnaas\IpsiLaravel\Services;
 
 use Illuminate\Support\Arr;
 use InvalidArgumentException;

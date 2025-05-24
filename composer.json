@@ -1,17 +1,17 @@
 {
-    "name": "ipsilaravel",
+    "name": "krixnaas/ipsi-laravel",
     "description": "Laravel IPSI payment gateway",
     "type": "package",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-        "IpsiLaravel\\": "src/"
+        "Krixnaas\\IpsiLaravel\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-            "IpsiLaravel\\IpsiPaymentServiceProvider"
+            "Krixnaas\\IpsiLaravel\\IpsiPaymentServiceProvider"
             ]
         }
     },
